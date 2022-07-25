@@ -1,0 +1,17 @@
+{
+  "name": "flight-business-demo",
+  "version": "1.0.0",
+  "description": "by DesplayShido",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DesplayShido",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.1",
+    "pdfkit": "^0.13.0",
+    "quickchart-js": "^3.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
